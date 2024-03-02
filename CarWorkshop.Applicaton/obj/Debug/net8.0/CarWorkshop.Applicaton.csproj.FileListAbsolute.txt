@@ -1,0 +1,16 @@
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\bin\Debug\net8.0\CarWorkshop.Applicaton.deps.json
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\bin\Debug\net8.0\CarWorkshop.Applicaton.dll
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\bin\Debug\net8.0\CarWorkshop.Applicaton.pdb
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\bin\Debug\net8.0\CarWorkshop.Domain.dll
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\bin\Debug\net8.0\CarWorkshop.Domain.pdb
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\CarWorkshop.Applicaton.csproj.AssemblyReference.cache
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\CarWorkshop.Applicaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\CarWorkshop.Applicaton.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\CarWorkshop.Applicaton.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\CarWorkshop.Applicaton.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\CarWorkshop.Applicaton.csproj.CopyComplete
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\CarWorkshop.Applicaton.dll
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\refint\CarWorkshop.Applicaton.dll
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\CarWorkshop.Applicaton.pdb
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\ref\CarWorkshop.Applicaton.dll
+C:\Users\Dominik\Desktop\programowanie\kurs\CarWorkshop\CarWorkshop.Applicaton\obj\Debug\net8.0\CarWorkshop.Applicaton.sourcelink.json
